@@ -1,0 +1,5 @@
+# Created at 2024-11-15T11:35:10.854
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Trainings\2024\PS 2024\hellocucumber\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
